@@ -13,5 +13,8 @@ Never have I actually felt the need for the API gateway. But it was so beautiful
 
 ## Life Cycle Manager
 
+
+I decided to try it out myself. Created a login for myself. And scheduled a [demo](https://www.roguewave.com/products-services/akana/request-demo/thank-you)
+
 ## References
 1. _https://www.roguewave.com/products-services/akana/api-gateway_

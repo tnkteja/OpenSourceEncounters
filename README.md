@@ -18,7 +18,9 @@ I decided to try it out myself. Created a login for myself. And scheduled a [dem
 
 Separating the logging part of the application.
 
+# Splunk
 
+Splunk as a mechanism for logging the messages.
 
 ## References
 1. _https://www.roguewave.com/products-services/akana/api-gateway_

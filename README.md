@@ -18,6 +18,8 @@ I decided to try it out myself. Created a login for myself. And scheduled a [dem
 
 Separating the logging part of the application.
 
+## Confluent Platform :moneybag:
+
 # Splunk
 
 Splunk as a mechanism for logging the messages.
@@ -27,3 +29,4 @@ Splunk as a mechanism for logging the messages.
 2. _http://docs.akana.com/sp/platform_install/installing_akana_platform.htm#download_platform_zip_
 3. _https://martin.kleppmann.com/2012/12/05/schema-evolution-in-avro-protocol-buffers-thrift.html_
 4. _https://www.slideshare.net/Splunk_
+5. _https://www.splunk.com/getsplunk/itsi_sandbox_

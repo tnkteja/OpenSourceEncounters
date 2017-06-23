@@ -18,7 +18,11 @@ I decided to try it out myself. Created a login for myself. And scheduled a [dem
 
 Separating the logging part of the application.
 
-## Confluent Platform :moneybag:
+## Kafka
+
+### Confluent Platform :moneybag:
+
+Requested a Download from their [DownloadCenter](https://www.confluent.io/download/#download-center). Got a call back shortly asking for any assistance on with Confluent.
 
 # Splunk
 

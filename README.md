@@ -23,9 +23,14 @@ Separating the logging part of the application.
 
 Requested a Download from their [DownloadCenter](https://www.confluent.io/download/#download-center). Got a call back shortly asking for any assistance on with Confluent.
 
-# Splunk
+## Splunk
 
 Splunk as a mechanism for logging the messages.
+Some questions I had when playing with the splunk
+*  There is something called number of lines per event. where does that matter for you ? Does it really define number of 
+*  There is a way to exculde particular elements from the search ? Why is that ? 
+*  
+
 
 Interesting enough I found out the differences between the stream 
 ## References

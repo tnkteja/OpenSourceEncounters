@@ -27,6 +27,7 @@ Requested a Download from their [DownloadCenter](https://www.confluent.io/downlo
 
 Splunk as a mechanism for logging the messages.
 
+Interesting enough I found out the differences between the stream 
 ## References
 1. _https://www.roguewave.com/products-services/akana/api-gateway_
 2. _http://docs.akana.com/sp/platform_install/installing_akana_platform.htm#download_platform_zip_
